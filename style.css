@@ -133,6 +133,7 @@ body {
     .search input {
         font-size: 16px;
         padding: 10px;
+        width: 10px;
     }
 
     .search button {
@@ -166,6 +167,7 @@ body {
     }
 
     .humidity, .wind {
-        font-size: 20px;
+        font-size: 10px;
     }
 }
+
