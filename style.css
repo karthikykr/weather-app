@@ -11,9 +11,10 @@ body {
 
 .card {
     width: 90%;
-    max-width: 470px;
+    max-width: 450px;
     background-image: url(images/background.jpg);
     color: #fff;
+    height: 700px;
     margin: 100px auto 0;
     border-radius: 20px;
     padding: 40px 35px;
@@ -92,7 +93,8 @@ body {
     margin-right: 10px;
 }
 
-.humidity, .wind {
+.humidity,
+.wind {
     font-size: 28px;
     margin-top: -6px;
 }
@@ -124,7 +126,8 @@ body {
         width: 40px;
     }
 
-    .humidity, .wind {
+    .humidity,
+    .wind {
         font-size: 24px;
     }
 }
@@ -166,8 +169,8 @@ body {
         width: 35px;
     }
 
-    .humidity, .wind {
+    .humidity,
+    .wind {
         font-size: 10px;
     }
 }
-
